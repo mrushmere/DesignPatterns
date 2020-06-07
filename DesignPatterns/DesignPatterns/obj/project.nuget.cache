@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rpYPj5eBqqHVcJr5TzUgrej2j35v1644iBdSER2Dzb/j4zrx+AitMp0ekNChgvX0AyRWWpLhOVirvsZwGuC8xw==",
+  "dgSpecHash": "4gWC368al0DsnCnLhzONjpeo7eE/C98tgHUpchSELQnQjsx1kw58X0F4uqVhwdLYcaAhrScywgoaFyEj89b9gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "projectFilePath": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\DesignPatterns\\PrototypePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

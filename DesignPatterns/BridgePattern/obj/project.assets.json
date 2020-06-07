@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\DesignPatterns\\PrototypePattern.csproj",
-      "projectName": "PrototypePattern",
-      "projectPath": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\DesignPatterns\\PrototypePattern.csproj",
+      "projectUniqueName": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\BridgePattern\\BridgePattern.csproj",
+      "projectName": "BridgePattern",
+      "projectPath": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\BridgePattern\\BridgePattern.csproj",
       "packagesPath": "C:\\Users\\mrush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\Users\\mrush\\OneDrive\\Documents\\DesignPatterns\\DesignPatterns\\BridgePattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
